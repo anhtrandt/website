@@ -6,8 +6,8 @@ title: 吳健雄
 name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Anh
+last_name: Tran
 
 # Status emoji
 status:
@@ -47,9 +47,10 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Asset Pricing
+  - Mutual Funds
+  - Securities Lending
+  - Corporate Governance
 
 education:
   - area: PhD Artificial Intelligence
@@ -183,4 +184,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I hold a Ph.D. in Finance from the University of Rochester. My research focuses on asset pricing, mutual funds, short selling, securities lending, and corporate governance, with an emphasis on investor behavior, fund strategies, and market dynamics. I'm particularly interested in how the decisions of both individual and institutional investors shape financial outcomes and influence market efficiency. My work has been published in the Journal of Financial Economics.
