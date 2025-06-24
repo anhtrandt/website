@@ -61,7 +61,7 @@ education:
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: 'https://example.coms
   - area: M.S. in Finance
     institution: University of Utah
     date_start: 2016-01-01
