@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+# title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: Anh Tran
+# name_pronunciation: Anh Tran
 
 # Full name (for SEO)
 first_name: Anh
 last_name: Tran
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -33,18 +33,18 @@ profiles:
   - icon: at-symbol
     url: 'mailto:your-email@example.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+#  - icon: brands/x
+#    url: https://twitter.com/GetResearchDev
+#  - icon: brands/instagram
+#    url: https://www.instagram.com/
+#  - icon: brands/github
+#    url: https://github.com/gcushen
+#  - icon: brands/linkedin
+#    url: https://www.linkedin.com/
+#  - icon: academicons/google-scholar
+#    url: https://scholar.google.com/
+#  - icon: academicons/orcid
+#    url: https://orcid.org/
 
 interests:
   - Asset Pricing
