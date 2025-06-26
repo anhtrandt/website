@@ -1,7 +1,4 @@
 ---
-title: Teaching
-type: landing
-
 sections:
   - block: text
     content:
