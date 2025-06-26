@@ -5,7 +5,7 @@ type: landing
 sections:
   - block: text
     content:
-      title: Teaching Experience
+      title: "Teaching Experience"
       text: |
         ### University of Connecticut
         - **Principles of Investments and Derivatives** (2018–2025)
@@ -18,7 +18,7 @@ sections:
   - block: text
     background: light
     content:
-      title: Student Evaluations
+      title: "Student Evaluations"
       text: |
         #### On *Course Content*
         - *“He related everything he taught to real-world scenarios and useful analogies. It is a tough class, but his grading was fair.”*
