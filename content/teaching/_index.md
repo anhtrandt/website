@@ -1,6 +1,7 @@
 ---
 title: Teaching
 type: landing
+---
 
 ### University of Connecticut
 - Principles of Investments and Derivatives (2018–2025)
